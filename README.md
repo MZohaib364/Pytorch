@@ -1,4 +1,4 @@
-# Pytorch
+# PyTorch
 
 tensors:
 https://colab.research.google.com/drive/1oT3Noi1n2nBSh_PXG2XwcsTUaQEyx61J#scrollTo=W8o-1cUl4M2x
